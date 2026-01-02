@@ -136,8 +136,6 @@ The project uses an **e-commerce dataset** consisting of:
 * Reviews
 * Event-level behavioral logs
 
-All data is provided in CSV format to ensure full reproducibility.
-
 ### Tables
 
 * `users.csv` – User demographics and signup information
