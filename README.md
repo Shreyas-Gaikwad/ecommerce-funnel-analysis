@@ -1,6 +1,6 @@
 # E-Commerce Funnel Analysis & Conversion Optimization
 
-<img width="1892" height="857" alt="image" src="https://github.com/user-attachments/assets/1f981bbb-df49-4ca3-b19e-1e7dc1905b40" />
+<img width="1952" height="969" alt="funnel_dashboard" src="https://github.com/user-attachments/assets/8346dd96-d59f-4f91-8b30-17a6a747915e" />
 
 An end-to-end **product analytics and conversion funnel analysis project** built on a synthetic e-commerce dataset.
 This project demonstrates how a **data analyst approaches funnel optimization using SQL-first analysis**, followed by Python validation, explainable modeling, and an executive-ready interactive dashboard.
