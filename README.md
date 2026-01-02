@@ -153,13 +153,6 @@ The project uses an **e-commerce dataset** consisting of:
 ecommerce-funnel-analysis/
 ├── README.md
 ├── requirements.txt
-├── data/
-│   ├── users.csv
-│   ├── products.csv
-│   ├── orders.csv
-│   ├── order_items.csv
-│   ├── reviews.csv
-│   └── events.csv
 ├── sql/
 │   ├── 01_base_events.sql
 │   ├── 02_user_funnel.sql
